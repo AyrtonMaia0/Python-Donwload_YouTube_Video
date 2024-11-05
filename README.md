@@ -2,6 +2,11 @@
 <p>Este é um simples script em Python para baixar vídeos do YouTube. Ele utiliza a biblioteca pytubefix para facilitar o processo de download, proporcionando uma forma rápida e eficiente de salvar vídeos diretamente para o seu computador.</p>
 <br>
 
+
+https://github.com/user-attachments/assets/f31b7711-80de-4074-8183-c517e2edd84d
+
+
+<br>
 ## Pré-requisitos
 - Python 3.x instalado em seu computador.
 - A biblioteca pytubefix, que pode ser instalada facilmente via pip.
