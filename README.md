@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/f31b7711-80de-4074-8183-c517e2edd84d
   
 ## Instalação
 1. Instalar o Python <br>
-   Caso ainda não tenha o Python instalado, você pode baixá-lo aqui.
+   Caso ainda não tenha o Python instalado, você pode baixá-lo [aqui](https://www.python.org/downloads/).
 2. Instalar a Biblioteca pytubeflix<br>
    Abra o terminal e execute o seguinte comando para instalar a biblioteca necessária:<br>
    ```pip install pytubefix```
