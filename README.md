@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/f31b7711-80de-4074-8183-c517e2edd84d
   
 ## Instalação
 1. Instalar o Python <br>
-   Caso ainda não tenha o Python instalado, você pode baixá-lo <a href='https://www.python.org/downloads/' target='_blank'>aqui</a>.
+   <p>Caso ainda não tenha o Python instalado, você pode baixá-lo <a href='https://www.python.org/downloads/' target='_blank'>aqui</a>.</p>
 2. Instalar a Biblioteca pytubeflix<br>
    Abra o terminal e execute o seguinte comando para instalar a biblioteca necessária:<br>
    ```pip install pytubefix```
@@ -70,7 +70,7 @@ Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar nov
 <br>
 
 # Licença
-Este projeto está licenciado sob o MIT Licence.
+<p>Este projeto está licenciado sob o <a href='https://opensource.org/license/mit' target='_blank'>MIT Licence</a>.</p>
 <br>
 <br>
 <br>
@@ -96,7 +96,7 @@ Este projeto está licenciado sob o MIT Licence.
   
 ## Installation
 1. Install Python <br>
-   If you don't have Python installed yet, you can download it from here.
+   <p>If you don't have Python installed yet, you can download it from <a href='https://www.python.org/downloads/' target='_blank'>here</a>.</p>
 2. Install the pytubefix Library<br>
    Open the terminal and run the following command to install the required library:<br>
    ```pip install pytubefix```
@@ -152,7 +152,7 @@ Contributions are welcome! If you find bugs or want to add new features to the s
 <br>
 
 # License
-This project is licensed under the MIT License.
+<p>This project is licensed under the <a href='https://opensource.org/license/mit' target='_blank'>MIT Licence</a>.</p>
 
 <br>
 <br>
